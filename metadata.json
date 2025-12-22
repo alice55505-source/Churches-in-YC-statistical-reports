@@ -1,0 +1,5 @@
+{
+  "name": "雲嘉眾召會各項人數統計",
+  "description": "支援多人即時協作的數據統整平台。匯入 CSV/JSON 報表或專案檔，自動同步數據並生成分析報告。",
+  "requestFramePermissions": []
+}
